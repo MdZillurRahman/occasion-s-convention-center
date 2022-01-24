@@ -1,0 +1,18 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+i{
+    color:#5243C2;
+}
+.text-color{
+    color:#231D4F;
+}
+.bg-image{
+    background-image: url('icons/watermark.svg');
+}
+.btn-radi{
+    border-radius: 20px;
+}
+.padding{
+    padding: 2px 20px;
+}
