@@ -17,7 +17,7 @@ border-radius: 26px;
     border-radius: 20px;
 }
 .padding{
-    padding: 2px 70px;
+    padding: 2px 75px;
 }
 .padding1{
     padding: 2px 50px;
@@ -37,4 +37,10 @@ border-radius: 26px;
 }
 .logo-bg{
     background-color: black;
+}
+@media only screen and (max-width:688px) {
+    .slider-responsive{
+        width: 360px;
+        height: 500px;
+    }
 }
