@@ -32,4 +32,9 @@ border-radius: 26px;
     border-radius: 20px;
     padding: 3px;
 }
-
+.bg-footer{
+    background-color: #000241;
+}
+.logo-bg{
+    background-color: black;
+}
